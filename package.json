@@ -1,0 +1,18 @@
+{
+    "name": "nina-carducci.github.io",
+    "version": "1.0.0",
+    "description": "",
+    "entry": "./optimise.js",
+    "type": "module",
+    "scripts": {
+        "start": "node optimise.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "UNLICENSED",
+    "private": true,
+    "devDependencies": {
+        "purify-css": "^1.2.5"
+    }
+}
